@@ -42,7 +42,7 @@ figure {
 }
 
 /* ---------- flexbox responsive styling ---------- */
-@media (min-width: 700px) {
+@media (min-width: 400px) {
     .flex-container {
         display: flex;
         flex-wrap: wrap; /*The flex items break into multiple lines.*/
